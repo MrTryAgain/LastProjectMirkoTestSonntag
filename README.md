@@ -2,7 +2,7 @@ How to setup the laravel with breeze login and permission system
 --------------------------------------------------------------------
 
 Install:
----------------
+----------------
 In the Terminal where you like to create your Dev folder:
     curl -s "https://laravel.build/Dev" | bash        
 
